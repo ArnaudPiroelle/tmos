@@ -1,0 +1,130 @@
+v0.51 and above:
+   Extract to a ./gfx/tracks/ dir
+
+Old versions:
+   Extract to a ./gfx/ dir
+
+------------------------------------------------------------------
+Track                  Author          UID
+------------------------------------------------------------------
+A-0                    Nadeo           htIXTD_pWDHKBRlq53xNd_KnEsf
+A-1                    Nadeo           73MLgLpOmJDnZWeCzBJYvewoda5
+A-2                    Nadeo           o8Fok5uL20bZtmSXxk1jR9fPzs9
+A-3                    Nadeo           ug3E6gmcWZlscMkJgxGjhZFWolc
+A-4                    Nadeo           BWCpz9R0CZDDK3mMp5pOBt51LP9
+A-5                    Nadeo           sujp68nFdAhh8ppYAt_Stt6laU5
+A-6                    Nadeo           qNAxmX5y7Ln_5BVOT3fnHdrben6
+A-7                    Nadeo           LQw8fuAV7ietW2WkhSncDwq91Ym
+A-8                    Nadeo           w7rZDBVQ8PwpUF_8NRCUl9lu2yb
+A-9                    Nadeo           TT0E_jwenTdoh90X1iD0lmFALK0
+B-0                    Nadeo           4oalZWYdyx0SEFyM2Xy0Jgc9xJ8
+B-1                    Nadeo           433gChqhfBzgwW4e6tUngYAXH0j
+B-2                    Nadeo           bZ_zzRW3hc3OvEFqHfG_NodPGmk
+B-3                    Nadeo           ShhpYjv3gnwhXgXQFN7JMzm9pvf
+B-4                    Nadeo           xTyeKg4WVBpn3ndrZFVbk_0hGT6
+B-5                    Nadeo           L39LYrBnri1OUeZYiPdCsrrPEjj
+B-6                    Nadeo           QTqTiLIPaoeFQfjKsWrQlvrEXUj
+B-7                    Nadeo           1f4A73gN3iqNu9H82Hyfw7ASk3b
+B-8                    Nadeo           xXEOtaQQvO4zLtiE3V3Ojtuy59h
+B-9                    Nadeo           bROVYStp3Vd2B5t6FS_xAG8bkri
+Bonus A-0              Nadeo           1JOswPGBJjKgnqWcrvapzPisF6m
+Bonus A-1              Nadeo           RAcYcek_nrYvA02w8jsQBy3Ss3n
+Bonus A-2              Nadeo           PHoUxcuuJFLTJc5vNFvGIqQdDU2
+Bonus A-3              Nadeo           38NxGByrsxxAfK2RXKcSgNKvoX0
+Bonus A-4              Nadeo           Enu1c79m74JiZbOG_rYmAcp7xM0
+Bonus A-5              Nadeo           0G13I8oup0JqQyB5uMKEIAZYDk5
+Bonus A-6              Nadeo           ht5tdXhpgExqDt4UEKDyUwaJKr4
+Bonus A-7              Nadeo           yHfdIc1g0ggKSEoOjb5MFLohO1e
+Bonus A-8              Nadeo           pahdj4vVOfkWRc9neXG808Hiqtg
+Bonus A-9              Nadeo           WITHgyWEJ8FRHuzeVc5TGCgwggb
+Bonus B-0              Nadeo           aZSe7W5ce95VVE9QVWHAl9aTCmc
+Bonus B-1              Nadeo           3hO9_VYBsd_vlSBOEs2ePBk0BYb
+Bonus B-2              Nadeo           HqpO72UhiDDDtQjY2NbU45euj21
+Bonus B-3              Nadeo           EfXd6dizj6yH93H1ENztwkxaO8c
+Bonus B-4              Nadeo           rdkJ90h5kW9_pR1_MIoWafoGVe4
+Bonus B-5              Nadeo           DN153r5RS2e7p_Jld5QsxSQdvaf
+Bonus B-6              Nadeo           h17_7AfUtlcXRQN9N_hOAUqiKjk
+Bonus B-7              Nadeo           EqjXDYgcoYXrWHSx68V6ENpjsA2
+Bonus B-8              Nadeo           9VoOeqcErQQXT6HSlgYBrfUjxCh
+Bonus B-9              Nadeo           q4KzBgtu2ruoBmj3rGb0D17Nvw
+C-0                    Nadeo           TM3egDWyteNbvtELGOsv13hUF15
+C-1                    Nadeo           lpNk_0QpfU4jpHbPvbZGnWlehSd
+C-2                    Nadeo           yHIt9KvZSbMwI6mearidci0SkQ7
+C-3                    Nadeo           17PHQMFG5qFeCiFVydupwMTmxSd
+C-4                    Nadeo           aAqqJq8s3lDkOEvakJmWDjth5_m
+C-5                    Nadeo           XSytfY9xzUs5JF3Jil1wI0Jeqkb
+C-6                    Nadeo           pf0LWifx5ZgfjXSaSdDxqyXguEg
+C-7                    Nadeo           aAxkQV5lDS4JylgQs5tQAFGnKhf
+C-8                    Nadeo           IVHIqsLoSjJxnxM3qW055jpluqj
+C-9                    Nadeo           O0mi97LKudNF3u90SWs4JbDyOdb
+D-0                    Nadeo           UfzUEa6TKl9TIoXk1Lx26xzxS2a
+D-1                    Nadeo           U0ye1jSM6yvioCnlmOujHJ7Q0I8
+D-2                    Nadeo           uXnb_jnElzbV4CYlbO51Hoolf4a
+D-3                    Nadeo           HkhOzC1KEYxBUhb0srKCipJZ2a6
+D-4                    Nadeo           n3EVi35B5Q5Mpvw0MdoUEJfAd06
+D-5                    Nadeo           s22NucI_vtYcvEMxHIFIUt1gGuf
+D-6                    Nadeo           1DZGppW0VghGdZYLPN6I5RtVblf
+D-7                    Nadeo           5TSm78pbUykdDEXj8Hlj2TQrlj6
+D-8                    Nadeo           t9wTqk2JCfNYywf5H_k51SeulYc
+D-9                    Nadeo           gIiYgpX0t4xB7QN64CFdXJ1EQv1
+E-0                    Nadeo           Fjd5ROyYShfhLHx76vZCNz3KWR
+E-1                    Nadeo           jtjdphT6ZrVy2E0NrKyIl8T2w5l
+E-2                    Nadeo           kdK8bcetWwy2z9UnmX22sIfS3Uh
+E-3                    Nadeo           yxUTF2YQd351q4iWVtrrqYV59tk
+E-4                    Nadeo           jdAlTbVu1Gdm_XWnC3dDxJYXJN3
+E-5                    Nadeo           UhAIs3d0276Nt7ATNsoAnDyZq35
+E-6                    Nadeo           GRJBG1kh5UyMPM4Nt9mDq2PEne
+E-7                    Nadeo           ua1L2We9Q9NKZH9I754AGWqoME6
+E-8                    Nadeo           sDY93tadGZyEDZ1au4hGAy1QZZ6
+E-9                    Nadeo           fpFUNqIATrsd28p4gYrcA0RnUx
+F-0                    Nadeo           iauTD9ITr9wqPVmIejIylRSKrT0
+F-1                    Nadeo           52CzzepKqn4EofsP2nYXPG78xN6
+F-2                    Nadeo           alNHKoNkR5DwIFsiM_GbhEfQhVk
+F-3                    Nadeo           0dRD3yA8yo2KI263y0RpPtkeDKk
+F-4                    Nadeo           C5iD8flZWaWCwk0zm9yQd8W7QDi
+F-5                    Nadeo           Lqzi5acFiwi5w3enkg9VSQulru1
+F-6                    Nadeo           LwOJN0gNSXxyFhgDBAnpVf1Y8f7
+F-7                    Nadeo           YqNl80S1N6miQXcP08EQPN8Mmm9
+F-8                    Nadeo           UAus_s9YIq5z13zux97VGMKcsP2
+F-9                    Nadeo           mp4ArEcF0KJIvikSTgBEoGzjF1d
+G-0                    Nadeo           pOR35JcLoBfkOPiUJUAX1HKSmck
+G-1                    Nadeo           FZ70t9Bu8q8GY1dOm5PLjlgNEW8
+G-2                    Nadeo           UKwG4iupF84pgJHcTtebgl2ZFug
+G-3                    Nadeo           wjx68Fd6LvvDeWCD7k0DLrzulp6
+G-4                    Nadeo           wAdLzo1Y6ciFOVftVgVMSGAFFUf
+G-5                    Nadeo           oCy2ABISUsAGcZyzLK6F_k9Grye
+G-6                    Nadeo           FcseeuuehgSoo0C9KGVE2ZAP89g
+G-7                    Nadeo           yUmjHaygu8mksGatxjwmUwhtaHa
+G-8                    Nadeo           NQGL_VewUjhUpik_nfoi0tJVFz6
+G-9                    Nadeo           9l11Cow5CkGW9wOQnBwWD6a7TRf
+H-0                    Nadeo           4FJ5wefFvuWFWJ3BbeYXvtRGsW9
+H-1                    Nadeo           Y6ZKQF5fd77a2DLs12_IYRzMsjc
+H-2                    Nadeo           kHo340SJ6YGfi8LKjnu_fkCKQ41
+H-3                    Nadeo           8MKanIFq5kXPgwI72cxgHD5YJK3
+H-4                    Nadeo           HYLLyIzWaItlcbpMDaXbrXlz6b9
+H-5                    Nadeo           qSflu9HPsDAmzNV9cN0tTBqgNw3
+H-6                    Nadeo           NfJuGl5xNyCG1xRM9a7wKs5kYD9
+H-7                    Nadeo           4N6DxOaJE8g7DTVKEHlGZeDWlO
+H-8                    Nadeo           A_tLKs8gh2kgtomVumItaVSK7hg
+H-9                    Nadeo           6oPURe0UalaqPI8ZRqX7GeTkBK2
+I-0                    Nadeo           NxRZ0LjdsvngzuNYoZoSVWgANN6
+I-1                    Nadeo           J1lXkCJnw5PRVSOGeDfgP99q_4f
+I-2                    Nadeo           TLponZuyZIl2beHsH1seyKsMcO9
+I-3                    Nadeo           Ucnik8tcNGYQkGj8OVByQs3Mcqc
+I-4                    Nadeo           ECUH0P9_bJF1FUHwO0mE7u3KBY3
+I-5                    Nadeo           vXvVBX49AdH6L516LRfwlYWykT3
+I-6                    Nadeo           JGs2fU76jsT2ta4q_FleYIaOZed
+I-7                    Nadeo           DfTuNurHsAQ3Vs1WMNxx6WzxTR1
+I-8                    Nadeo           DfbL6pj2X3vgpJC9FEFrwejmc2
+I-9                    Nadeo           q_A36DtSd5wCkdjiBJDB4jVwTV0
+I-9a                   Nadeo           hSzltlHV9XaebH_rHNCxstAfVk1
+Pro A-0                Nadeo           zVV6pl2qVGVcPWOcOeODmt3w8n9
+Pro A-1                Nadeo           XqV_cwrwkWbu65UChCSm2rtiAOb
+Pro A-2                Nadeo           YaiKlMGPtLIuHEMUKKwV84TrvZ8
+Pro A-3                Nadeo           rTZZLVNP9qc2oRXKvhksyhCEnHf
+Pro A-4                Nadeo           yqFd1min_29U2sIHs_vsXHjV8Kj
+Pro A-5                Nadeo           CZdq5dPOcEuWeSw5VnDRtYh6jHc
+Pro A-6                Nadeo           hsZqPu6eGptYrsnffINFdfQl7Ud
+Pro A-7                Nadeo           N6Emv7C3V8Aj0omYGnJ783Q9Fhk
+Pro A-8                Nadeo           1bGe9uEvx85nOgHhF0cidEKpi95
+Pro A-9                Nadeo           JyNNj8bpwB66TNKs595z1rKU3F5

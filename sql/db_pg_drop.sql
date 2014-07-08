@@ -1,0 +1,1 @@
+drop table if exists tmos_servers, tmos_players, tmos_tracks, tmos_results, tmos_clans, tmos_scores;

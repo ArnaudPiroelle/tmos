@@ -1,0 +1,71 @@
+v0.51 and above:
+   Extract to a ./gfx/tracks/ dir
+
+Old versions:
+   Extract to a ./gfx/ dir
+
+------------------------------------------------------------------
+Track                  Author          UID
+------------------------------------------------------------------
+*Energizer*            Pitstep         UWVjl0spZ6LZyqxbUYs2QSPAWXh
+-RUSH- Flip Flap...    Mikerush76      gUYN_4uGiEk0o31N7RVRXj2vgB2
+A Rush of Blood to...  Faith           SNBTign6TZFpIp3jtkrsbd8uot0
+Action Coast           Panis           bdm3iAPd3JWPhSvmXn0Qm7eFFK5
+BLIND DATE             ___On_Fire___   1tXFvc8DAKKUwTi2olhlvvdNrfe
+Back In The Village    AirRaid         bV9yi_6cQ5AsZHpq2GJf7PsNu16
+Breath                 Ganja           Z5wRVxlF0cKsFBInJLb74cbz0s
+Chilling Feeling       MegaRacer       YgoRMLjn39ZGXWgug8nUH7scbrj
+City of Speed          Panis           kKQxnrm0iN7x2VKUvFJZ6Ahxidg
+CusTom Design          ___On_Fire___   wScmJp_pmqFJYf_l7TtbwrccOw9
+Demo Frogger           TacoStain       eLI4FRobYBDE_27Z9SNAT2Z3hVf
+Double Way             Panis           DaPelExEDAUb0Sj0qvG_yGU_xl1
+Escape the prison      Andree          qqNufAFg0fzhliHJFrnvilN6XTh
+Evening Standards      Ron_Turbo       UyYOx8A5Fb_o6t8Q9qZzQNcWSuh
+Fir3$tart3r            GanjaRider      D7S8ZqylESwynZz9dMX9I7JyGYe
+Floating Insanity      Ron_Turbo       eceh8h2fOfHSoODRLxp4taDfY4e
+GOLDEN BRIDGE          ___On_Fire___   _oDMIY7hRgFwskWZpGadF9BBsSh
+Gammatron long         Tarquin         QCbcrWroRi7j3ycxDxHeOzZ5aM8
+Gone Wallriding        The_Horrorist   U5Adr0ZCPiu8XY51Ule6t0tUHod
+HyperBounce^(2)        Panis           g8vCByWAKRrNDjrUg3TtGMazDmd
+Impuls                 Panis           PySI5FfKSPmLQmuEFKzY3q69_Oj
+Infernal Speed         Panis           PY1Gsv2TPTIUfTwIA5pcSjzitO6
+Infinity               Panis           LcpGdS8hjBW3go3T6mrZMV1Ct_2
+Island of Doom         Panis           hBfujiHvc3x10_38LTsmpLHNbt9
+Jumping Indoors        Ron_Turbo       _7MgvQxqUUk1tCEnerkbweUcYWd
+Little Fun v2          Panis           JvgR8oplYrZsOfHSn4SjoONdV1i
+Lord It                Ron_Turbo       g92xXySGVEcDhV3R8in1QBl3Vtf
+Losing Grip on...      Ron_Turbo       nvn9__HbcRwA7gazpZ5lCRIofxb
+Nature                 -Panis-         qmWtIVEZZDqhAlocaSdHvGo3nW7
+Nature Xtreme          Panis           LOVbxf1dOBEcNrFuVaQHA4xoep7
+OilRig                 Raxor           0XPIEVHRlnazu2XDfexbkoPi5Q7
+PHISICS LeVel 01       ___On_Fire___   nNvjy2gsMXnb6dGPCclBziQtx4g
+PHISICS LeVel 02       ___On_Fire___   wX3HX8HvNzuLcCP2kOdib9xXRq5
+Powerslide             Panis           g02OG3LBzSdyfmKjNBwnYLnTb2b
+Precision              Panis           MkxUTuFaDcRMfAQAIM3u8zD0_kg
+Press NOTHING          silvestro1      4g9pAT5ejFQzh0KTYJZ8AhaOsij
+Ride into The Pit      frefre          CyCgY9_HI_1zF83KMrhiJJKIyw3
+SecretWay3             Julle           bxrGFjsqrroZ2pFVCkAopB_heOj
+Smooth Operator        Ron_Turbo       S0oTZYX__1gvbk9JIbFN7e25vTe
+Smooth Operator2       Ron_Turbo       FEPKWpzUj1tDucydQr1XMeVPE6d
+Speed at Sunset        Panis           qPBsq0MdvdXheoTPXZdIFWuXsu4
+Stunt Island           Panis           GPjpBQ9Cwak6jYDchJVDIPwAvU6
+SuperMan               Panis           lWO8uubeEllP9DfENbVhFj73Vwj
+SuperMan^(2)           -Panis-         6IGIF3gMS4IRauFdIXT_mKzqQt2
+Sweet Insanity         Ron_Turbo       JGHjooLXEDzeFxkmJmfaX0Xl7i4
+TMX ...Island Race 01  TMX_Community   NQsqm8ckKL8k_gB5tgYn0zo3He9
+The Stunt Movie        Yhoko           5FJUEQfPbxUxlyoGY9TzRbUpwIj
+ToTal MaDneSs          Panis           RzCfoTN85k9VV5HP1TlMh0mxqP3
+Universe               -Legend-        Da_UqxGRjL8VMQrHHygu8z479B2
+Unreal Velocity        Panis           l9_B4jwksLAqGBwu0ScQGQ_rwK0
+Vertical               Panis           E7WBDKbKl5fsrvCEB8XP7u9MqE4
+W?cKed S?cK            Nirva           Mm68YnDR_aMYma9yuKM1SidWGMl
+[K] Rushhour 2         -KennY-         kuB_aP1bng5IQPVTGEqHTDZo2mj
+_ 014 - GOLD RUSH      Heltallica      D80AAL8d6nMd7dJv3J4RQjdZXsh
+_ 015 - YOU WILL BE .. Heltallica      6A7vIogj3FeiTfbKsUFT0JvqPpa
+_ 016 - HI..STOMP ! v2 Heltallica      qLOcLUFJIN3uiLoXhHKtRR9Z6J3
+_ 018 - SUMMER RAIN    Heltallica      l4zdnzQ_sjaiLrVBNLEAIDoLsVe
+ `Secret ProJect`      ___On_Fire___   _lcvt04sa936dpHJ4_GqI9sMScl
+`The Origin`           MegaRacer       TCn6A_mY_p_3d8abZRnDVgNbC9m
+as the rush comes      Faith           AuYMcU8ujdtpbOBYouQNGDhC3f
+»Birth Control«        Mannijack       uj8n55qNshhIVmeeHpG94GXSnWa
+U"berspeed 2           Zharihnn        yI39BzRyV5YhEIx2ijasMU7yWp1

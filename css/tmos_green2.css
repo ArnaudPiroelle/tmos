@@ -1,0 +1,399 @@
+/*
+   <dscr>Green 2</dscr>
+*/
+
+/* ................................. common ... */
+body {
+   font-family: Verdana;
+   font-size: 11px;
+   background-color: #3A5E32;
+   color: #000000;
+}
+a {
+   color: #000000;
+   text-decoration: none;
+}
+a:hover {
+   color: #C2BA3E;
+   text-decoration: underline;
+}
+table {
+   background-color: #628959;
+   width: 800px;
+   border-collapse: collapse;   
+   border: 1px solid #000000;
+   font-family: Verdana;
+   font-size: 11px;
+   margin: 0 auto;
+}
+th {
+   padding: 3px 5px;
+   text-align: left;
+   vertical-align: top;
+   border: 0px;
+   color: #000000;
+   background-color: #5B7F52;
+}
+th.tlr {
+   border-top: 1px solid #000000;
+   border-left: 1px solid #000000;
+   border-right: 1px solid #000000;
+}
+th.lr {
+   border-left: 1px solid #000000;
+   border-right: 1px solid #000000;
+}
+th.l {
+   border-left: 1px solid #000000;
+}
+th.r {
+   border-right: 1px solid #000000;
+}
+td {   
+   padding: 2px 10px;
+   vertical-align: top;
+   border: 1px solid #5B7F52;
+}
+td.n {
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   border-bottom: none;
+}
+td.ar {
+   text-align: right;
+}
+td.ac {
+   text-align: center;
+}
+td.arr {
+   text-align: right;
+   border-right: 1px solid #000000;
+}
+td.pl {
+   padding-left: 50px;
+}
+td.tblr {
+   border: 1px solid #000000;
+}
+td.tlr {
+   border-top: 1px solid #000000;
+   border-left: 1px solid #000000;
+   border-right: 1px solid #000000;
+}
+td.blr {
+   border-bottom: 1px solid #000000;
+   border-left: 1px solid #000000;
+   border-right: 1px solid #000000;
+}
+td.tb {
+   border-top: 1px solid #000000;
+   border-bottom: 1px solid #000000;
+}
+td.bl {
+   border-bottom: 1px solid #000000;
+   border-left: 1px solid #000000;
+}
+td.br {
+   border-bottom: 1px solid #000000;
+   border-right: 1px solid #000000;
+}
+td.lr {
+   border-left: 1px solid #000000;
+   border-right: 1px solid #000000;
+}
+td.t {
+   border-top: 1px solid #000000;
+}
+td.b {
+   border-bottom: 1px solid #000000;
+}
+td.l {
+   border-left: 1px solid #000000;
+}
+td.r {
+   border-right: 1px solid #000000;
+}
+div.splitter {
+   margin: 0px;
+   font-size: 20px;
+}
+img {
+   border: 0;
+}
+input, select {
+   background-color: #649557;
+   font-family: Verdana;
+   font-size: 11px;
+   border: 1px solid #000000;
+}
+input.txt {
+   width: 96px;
+}
+input.txtmiddle {
+   width: 50px;
+}
+input.txtshort {
+   width: 20px;
+}
+input.btn {
+   width: 100px;
+   background-color: #446A3A;
+   color: #000000;
+   border-collapse: collapse;
+   border: 1px solid #000000;
+}
+textarea {
+   background-color: #649557;
+   width: 99%;
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 11px;
+   height: 40px;
+   border: 1px solid #000000;
+}
+
+/* ..................... logo+menu (header) ... */
+table.header {
+   background-color: #5B7F52;
+   border: 1px solid #000000;
+   border-bottom: none;
+}
+td.logo {
+   border: none;
+   padding: 0px;
+   border-bottom: none;
+}
+img.logo {
+   width: 150px;
+   height: 50px;
+}
+table.menu {
+   border-top: none;
+   border-bottom: none;
+   border-left: 1px solid #000000;
+   border-right: 1px solid #000000;
+}
+tr.menu {
+   font-size: 13px;
+   height: 22px;
+}
+td.ml {
+   border-top: 1px solid #5B7F52;
+   border-bottom: 1px solid #000000;
+   border-left: 1px solid #000000;
+   border-right: none;
+   background-color: #5B7F52;
+}
+td.mr {
+   border-top: 1px solid #5B7F52;
+   border-bottom: 1px solid #000000;
+   border-left: none;
+   border-right: 1px solid #000000;
+   background-color: #5B7F52;
+   width: 100%;
+}
+td.m {
+   border: 1px solid #000000;
+   vertical-align: middle;
+}
+td.ma {
+   background-color: #3A5E32;
+   border: 1px solid #000000;
+   border-bottom: 1px solid #3A5E32;
+   vertical-align: middle;
+}
+a.ma {
+   color: #99BF6B;
+   text-decoration: none;
+}
+a.m {
+   text-decoration: none;
+}
+table.menue {
+   background-color: #3A5E32;
+   border-top: none;
+   border-bottom: 1px solid #000000;
+   border-left: 1px solid #000000;
+   border-right: 1px solid #000000;
+}
+tr.menue {
+   height: 22px;
+}
+td.mel {
+   border-top: none;
+   border-bottom: 1px solid #000000;
+   border-left: 1px solid #000000;
+   border-right: none;
+}
+td.mer {
+   border-top: none;
+   border-bottom: 1px solid #000000;
+   border-right: 1px solid #000000;
+   border-left: none;
+   width: 100%;
+   text-align: right;
+   padding-top: 3px;
+   padding-right: 5px;
+   padding-left: 5px;
+}
+td.mea {
+   border: none;
+   border-bottom: 1px solid #000000;
+   vertical-align: middle;
+   background: url('../gfx/bmea.gif') no-repeat bottom center;
+}
+td.me {
+   border: none;
+   border-bottom: 1px solid #000000;
+   vertical-align: middle;
+}
+td.mlu {
+   border: none;
+   border-bottom: 1px solid #000000;
+   width: 100%;
+   text-align: right;
+   vertical-align: middle;
+}
+a.mea {
+   color: #99BF6B;
+   text-decoration: none;
+}
+a.me {
+   color: #99BF6B;
+   text-decoration: none;
+}
+img.uo {
+   width: 16px;
+   height: 16px;
+}
+
+
+/* ......................... links (footer) ... */
+table.links {
+   background-color: #3A5E32;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   border-bottom: none;
+}
+td.links {
+   text-align: right;
+   padding: 0px 10px 0px 0px;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   border-bottom: none;
+}
+
+/* .................................... inf ... */
+table.inf {
+}
+table.infhdr {
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   border-bottom: none;
+}
+table.infdata {
+   border: 1px solid #5B7F52;
+   width: 100%;
+}
+th.infhdr {
+   font-size: 13px;
+}
+td.infpict {
+   width: 160px;
+   padding: 0px;
+   border-top: none;
+   border-right: none;
+   border-bottom: 1px solid #000000;
+   border-left: 1px solid #000000;
+}
+td.infpictr {
+   width: 160px;
+   padding: 0px;
+   border-top: none;
+   border-right: 1px solid #000000;
+   border-bottom: 1px solid #000000;
+   border-left: none;
+}
+td.infdata {
+   padding: 2px;
+   border-bottom: 1px solid #000000;
+   border-right: 1px solid #000000;
+}
+p.splitter {
+   margin-top: 2px;
+   margin-bottom: 0px;
+}
+img.infpict {
+   width: 160px;
+   height: 120px;
+}
+img.btn {
+   width: 52px;
+   height: 15px;
+}
+
+/* ................................... data ... */
+table.data {
+}
+td.pages {
+   border-right: 1px solid #000000;
+   border-left: 1px solid #000000;
+   border-bottom: 1px solid #000000;
+   text-align: right;
+   padding: 7px 10px 2px 10px;
+}
+tr.light {
+   background-color: #5B7F52;
+}
+img.m {
+   width: 11px;
+   height: 11px;
+}
+img.f {
+   width: 16px;
+   height: 11px;
+}
+img.sort {
+   width: 24px;
+   height: 11px;
+}
+
+/* ....................... preferences ... */
+table.preferences {
+   width: 500px;
+   margin: 0 auto;
+}
+
+/* .................................. admin ... */
+table.authorize {
+   background-color: #628959;
+   width: 300px;
+   text-align: center;
+}
+table.adminmenu {
+   background-color: #3A5E32;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   border-bottom: none;
+}
+table.admindata {
+   width: 100%;
+   background-color: #628959;
+}
+span.err {
+   color: red;
+}
+span.ok {
+   color: green;
+}
+span.hdr {
+   font-size: 12px;
+   font-weight: bold;
+   color: #000000;
+}
+span.status {
+}

@@ -1,0 +1,210 @@
+v0.51 and above:
+   Extract to a ./gfx/tracks/ dir
+
+Old versions:
+   Extract to a ./gfx/ dir
+
+------------------------------------------------------------------
+Track                  Author          UID
+------------------------------------------------------------------
+Karting Stadium        Scorpius        VsaBzsuZf3i6O6TW7aZjraDi24a
+Need for Speed         Andree          z4kgC7qeRi48adAzUAJ38iJ8UU6
+OddWorld               DEnGel          YjwJPLatWACMnfLAFon3CxZnRP6
+Open your eyes.        irondragons     ucKiaTj38TpbDEPNn9czEVqSYYa
+N.U.F.A. U.N.O. A.B.T. PANzon          xgQDbi8vYEc01ehxrzjkOffxR_7
+Japan Style            nap303_         rgACyrCBAlkreTZWIFdzvO1FQs0
+rEnEgadE               pitstep         HuMZ_9roscEJ6Otaj4tULvyuZSl
+!ns!deTMN              SadHik          YZu6YCNHRBwmeF7MFhvG2ViOEKf
+battlestation          pitstep         6U3tSj_GHN1VEdP3KpgxJYJUPV2
+BRAINWASH_v2 the...    DerFeineHerr    lGw0LWTkimFb18Nrco61HeFKHk1
+BikiniBottom           Softball        505aoyeTRE91PezAs7dKi5maFob
+tinyTECH2              Ron_Turbo       I4_Cuq71JJ5X84dv0ZLOkClrYF2
+TriniTy                Ganja           quzNBlNzVAdSJVV5K6GaoOs_So4
+DemoN ToucH            weetos          dCscv1ZHa5EwnfbodHULyUlHi0d
+Aerials                MasterDisaster  jUevT99Gi7VZqB3U_1qia6YobGi
+Pow?r                  _Squirrel_      g_IOi2p1dfH2ndrvpPtA7W5eN4j
+FormulaFun             Andey           DCAf63mYZ_czww0llVctfOn4G68
+Smooth Criminal        DaCheCker       7zJRBGIPbGJrds_CKHjf8dtQkD4
+-RUSH-Double Back...   Mikerush76      gWPsplrh7p0TAqXq7eDwJjSjjr0
+»GreenEyes«            Squirrel        C21POWZh68AWDElenP3Jw_8TtI3
+Remix                  Ganja           SH7vjO6dFm6l06c6Xx_uZ8AcI0f
+Trou duc' en loop      KeV             iJVi5z1KFukXS4_H_0XsN4Cass
+KOmpleX                Bung.Hole       WiZV8OiV55MfgZtyauCrdkNdBlf
+Race Arena             Andree          6uoZH0tMvVSdIHXZp1Kp1KEnmyf
+TmsO W@LL              KeV             WvD7lJrdlXhPCkA_pHkGj2SMJ21
+¤Instinctif¤           demon_fire      GH67m2M9q76eCOcCOUC9qrasCT1
+Palm-Stadium           BLaHiTiS        fVV1ekeiwO0qxeqdOfuAo1zFK5k
+Silver                 _Squirrel_      l2pskpBN7rR8vSt1BhJ4O5jI84m
+-32-PatriotGames       -32-            mQmbcRCRFNSrshM35xG19DoClFl
+Bleu Spirit            speedy14        nvAx4sVRSfG5M0VX6tomldY4ixk
+Epicentre              Sonic.          H9jKScjTvC_nsTg6TQqEwed6L2c
+Flying High            Sonic.          9pSDmA5lAsvQA7Ul1P1JqhtgXK6
+RubberRoom             popgun          u4xZANo0dySx1VVTkZOC5Cx1w9d
+Sweet Dreams           Sonic.          WYZ1Vi5YJ_OzOpOGtHjUbn5KI6h
+[K] RushNation         -KennY-         rKNrqSJ9vU9MW_1B_Q6uvMOMZri
+
+Escape the Prison 3    Andree          KgEnzHtWxgYywaJ_KoQu_FiT6f2
+In my place            irondragons     RXX_76RzPSlCBJOwTL0uFvNdZjj
+Matrix Revival         Scorpius        Vz5qqGWPINLdHjhAN_x1vhNAXL2
+DutchDelight           GanjaRider      RFqmAp3sm8AP_wZoPFpc1md1Qh3
+Ride                   irondragons     IVcm8bxVxUbJeyWn7qeFqSJFPWc
+Ahead is a blur        irondragons     BLKATatO4YyNttaHyYOORO_i0c9
+Brown Stains           GanjaRider      1OToVYoPYhdSBecaM8eSAPwB7w5
+Be Quick Or Be Dead    Andree          VJ6xHV0mEpeu5dZqZqg6Whw6qMd
+Flowing Endurance      Zeke129         MCceois1iSCAy65AmJ3BO4oR_Vb
+iNcluded               Scorpius        cPtoMRns_zxdm2vkCOOwy8bZo57
+Velocitrack            Acegikmo        noAPTod4HPjwTr49fsDVjVB6ixf
+N.U.T.S                Docteur_Kuku    8qhW92kHQ3Dyn2PDjVn5UOrdpp7
+Burning Wheels         Andree          1I6FF1c8xxP7zCHbLRr7niq7aO6
+Need More Speed        Skotinka        LJuMCFWtAjQQN1Yc_XF6LhqSvsb
+Black Velvet           GanjaRider      ke5Zd7BlMvhEVUlKzdG0tDP5I5e
+reRun                  Ron_Turbo       1g7I8hW9afRMUAQ7WRwMzuLOujd
+Carbon Era 01          Ron_Turbo       HbFjcRPcU5PxIewT53mG3uBohV
+tinyTECH               Ron_Turbo       DE5y4Mn5bGs33twifGZ6Cdkbwm1
+Still Life             Ron_Turbo       F825ggIyUbUdBvNG0UsM3btBiY8
+TMN Compo 1°           Sabaku          el6apk2UMvLhqmO4JUjvcPwcgL5
+Speed Speed Speed      Skotinka        LtZtys74qWr23gqPxwn50WfQypi
+Moving Power           Panis           ziY6Lp3VpeSDWFhqZtdsFINZN72
+Thunderbold            Panis           XfhpkmiNtg5qBur8lgmOEguQls5
+Urban Chaos            Acegikmo        7m0oNXXhO6A6NfXrwuz0i1Pfa97
+Back for Nations       Andree          f6PFfBemLp0yKZBwFwv_gLVo7Zj
+RoundTrip              Andree          nljrtNKnDmfX6JpBW4sa9B6Cega
+=Orion=                -Really-        eDvPxOLkkQVV7zbXJqibvmqJ9B7
+-32-RuleBritannia      -32-            VMR2fFyNbmwdPZjr6N8EvkKIiOl
+Billy Badluck          Docteur_Kuku    q7Ewa7NuMzhhmUhFlIRvxPbYK0e
+Billy Badluck_VF       Docteur_Kuku    KKPLGrAhY3JTeXnsvxrg6x8GJee
+Duelality              Raxor           YL8Epo8cItfiZn3YAUNUUQdvVp5
+Ivor No Clue           MrA             heRn44nO4uGoknHmBbnpczyhXwc
+ROCring                Rayden          ZvGQh4wje7EaqZxCpCLkcxiSWy
+TechAttack             Raxor           lGzF7ZVqndQcoQhzjcFaIGv3ZOh
+Prey Alone             MegaRacer       pKo4xqcMF8vbNTNE6HMr5QlK4cb 
+Starting Up            MegaRacer       2UzvOjpkxmjxXCNR3_WUq6V0kB1
+SuperMegaSpeed         Skotinka        wpMfsCBNXf7Ikzvu8ZPBT8ACr7
+Stadion                Skotinka        zQ6VH0yPlUrFFdXZOIqUsRBWzLe
+
+*RussianStadium*       COBA            1mlWzLbcsS01dYhYe5YsLNwh5Pd
+*USSR* GLUK            Skotinka        hldBLPvB42ETrWxDOvDxxyCZ_w5
+*player one*           koltaf          OU_3DRrc8tKV5qLFxieIA55wuLg
++ Ceremony +           DarcKz          1ssLQxfJ7k_qof9sl9bkPzWKDtm
+-32-ArtfulDriver       -32-            OuMOStMRsRhb3WNhIt_12h2Cxu8
+-32-NoticeToAppear     -32-            B6AFYyqERmbnhTcAJ3nY8caaN18
+-32-SundayRoast        -32-            9cydi4KQmb948Xdt7Y1SYvDQfU8
+-32-ViviD              -32-            4_Rk4EuW16ujx1VcklEOJdbAns9
+-Full-Speed-           ORA             pqa5xjLPLsRtXsw3Qalf5FCaCC7
+00Broken Brakes        Piepie_Vioc     MgeVmjotuMLnprs9Z1RR92OpIWg
+00Rock'n de V1.1       bkb98           V4aNz9LELjWrkUQ3WU7Vn6ulpWi
+01/2006                GRAR77          mVMLlbWuKz48uYc2jMRyl6d72a7
+0xµgeN                 DerFeineHerr    qslZSaKi3f0uLcYkXN_rb70PEOc
+st Nation              Scorpius        z28GJqr7zFpN8IjS0c3mlM0F5zf
+=NaTionS SpeeD=        GerManY         hdyptIHU9Tc9OG6UB2iwJVna5Cb
+=Technical=            demon_fire      XpJsb3zi5M8XAWePleg9_TP8smd
+=Technical=2           demon_fire      Nlp1exwaUSXzez2t8caoCMw4xr8
+A.R.O                  RacerSpooKy     YUNiHet9pKmjIKlmJIjid_oBaph
+Addictive Round!       Terrorpilot     yCckwBNIT0JwHLsbn2OrliPx8Z1
+Aerial Combat          Xisdown         ppdWo1NhfOEpOOA5q9nnlZjEzne
+BBQ Sauce              scottmc         3vNQDSq_1YpK3NC9NyqciSi0tx0
+BULDOS                 Skotinka        uUrMA630qdnl1lVvkh2F4tLb5_7
+BendD                  Raxor           ZrIkB4wWDvDd83nz0niow7V2Dy7
+Black  and  white      Wrner           fh5S4lkznhXSa160OYfR5VO_Gzb
+Black and white 2      wurnur          ECYI49Z9IJagwaDdo2bf7Uz3ar1
+Black burn             wurnur          5c9itsrUw6K13MgEaG82nfa7Shm
+BlackandWhite          Sub             F6qkm7NjS3d6RD_kLx9gUb0Qwk5
+BucKOloo               KO_Starbuck     ih_be5NwSytqZp91X5Wl5CL4Tme
+Controlled Fury        stickylou       k9EQQBte0T6JQCpQliuVtJhlVi8
+Crash-Burn-Repeat      GanjaRider      YhLSuSB3oTZjo79lO1rP3uwmIya
+Crazy Slalom           Astarotch       XG7lybcx2WbTUkS_UJBE5uKHke3
+DYNAMIX                pitstep         zqJ9EHqD5ApLuj5iGMYHbDsq_Gl
+Dark Playground        Zharihnn        4_N3w_dO5PATf4yazaqGyIaDu26
+DenGStaR               DEnGel          kPNQLAEfGp95cuunD6Dfe9WpJ6a
+DivineIntervention     Andey           k0muVzrHBiePlHojFrFknlrb13k
+Don't sleep            Trojaner        NIg4dQplc9v4P8ExqX03S4kqyn4
+Double-Impact          __n4drive_      mo0hVPLifbmOCOb7pSgJKEfSjCm
+Duo  Action 2          Andree          1UhltdvJxKpw27wsErSpWPQ3bR1
+Enrage                 Acegikmo        gZ8ImsjYgFWsORBm5g7Ke5FNsWm
+FantaSpeed             DEnGel          TRw0qtXdM_nOL2hf4fFjaBUaVNg
+Fast Food GP           GeronimoDubois  4kJes5JewcxtH5LOcDZQE17sLo5
+FastLANE2-v2theAft...  DerFeineHerr    rFjkTKotx75vmd5ic_vJqeb0RPl
+Fight                  Trojaner        O5qrcSR87GqjvVZqAfBo7CUksu7
+Fight Of Nations       demon_fire      BItE5kIj_3MC6ClsAnu1BTpr_o9
+FoR JiBoX              KeV             DG74vh5o9F3Um0JB707tK4sFz0m
+Formula                Lemmjng-        vuOyuFSkS1CtoMsvKbgsQACNBkj
+GoldenLoop             Rayden          LMiDwxz_CIS1Ccz99bSKXqvzgTf
+GreyShades             Andey           S4gao6MKYFc_5cTR_SLV6tkArsi
+HOTline                pitstep         ZEVSyxSglvDc9iRZ7_N9qgK0FTa
+HammeRRun              DEnGel          rMzBwM138xrNvyfbTx1rrYtBdo9
+Heart In A Cage        toph1980        wzoxfwg4Atbh9GLKy7sctlsBzlg
+Hell Race              -Really-        vDY_3n2nfux7McDCbR0rIQ4zcR0
+High Society           DEnGel          wy9Ah0hf4qID6k2RIDNSNxcYYS7
+Hight Speed Stadium    Crazy__Driver   7ydoy6oqesdcRqPwVXdotBUhwUg
+Instinctif 2           demon_fire      JNUjIH3r5M0rT2igAYMyAaNcaPk
+Inversion World Tour   Shadow230990    WvmYm787kOWjqB8sv2e1ckWjfYj
+Iron Jungle            Shadow230990    2J9au2x6UvhnXH3D8nuEdP_csLj
+Jumping GP 8           DK              2wDplUkQ47NUGfnR6QpGYv0gvQ7
+KissingTheShadows      MasterDisaster  UzLLKcJv4LfCfGFTLfA0WG_puge
+Mortal kombat          Skotinka        IO6TpMEjV7qkkMtNhhzZcLi2sGb
+Need Speed             DarcKz          EXD0svQDzxQdQ8dYxBsbZs47r1c
+NoWorries              RacerSpooKy     Q_JGrkezmFxaebFTnxfauneDaA8
+ORAGE-MECHANIC         ARO             DMfkoygO0jbTEUhsLBvHyw_FHvm
+Offroad Skill v4.0     BrummHummel     yV65bwuhNCT42tZXPqUO1xEbPuc
+Olympia                Scythesman      CDhDT_97H6RUtbmF6yACxCCHf6g
+On - Line              Trojaner        4nugMJtinYUC88C2iWF8tC_ltD2
+Optimal Craze          Baboy           zpw0rCoUGjSzPadtN_JxzT2RqNe
+P1mP 4 LiFe            DaCheCker       4XXIDXzGo1t8Bj2NhlG8H07I8K3
+PHP-GOES-MAD 3         PHP1987M        xSSUbGBvJQqshdrkN_mWC4RRru3
+PiLoTT                 eMyoL           xSu_IQGz0qO29WcQIpbM3GERnJh
+Psycho's Track         Crazy__Driver   fvXgqoaU75BQMaWIcZkXHdbxwAj
+Question !             Sabaku          tOOq1XoL3IkzC3gtkg21jU6OB47
+ROC by Crazy Driver    METEOR__wCr...  aN_9NG78pFr7boe17FQVNlZI2oh
+Race In Hell           guifight        m_A_f6UaT2rvMEwxuH__z3oPnI2
+Rally Special          RacerSpooKy     eAHWJRA2SSpdjZVOKNy8ELDUwRe
+ReUse                  ceo_tw          oePgmtY8gS0s95o0ubAWjRwZt0i
+Ride on shooting star  MOD Derek       hox5tLVMrJGK6LvnEqzy5tt6mDg
+Rising the Bar         MegaRacer       a91WEGmVW3DL1GiN1HENq85cV17
+S'esch net schlemm !   -Axis-          zWmqeEJgzCKAFB359M73V_VYO8c
+Savana                 artofnoise      N6ruYpInr63oMjANgAV3HpNvjnh
+Scrambled Eggs         scottmc         3yHOxazFhkmeOs3AfRbbQyiUztc
+ScreechLighting        Raxor           PJ7gMQZgpvSmnnLCO_TbTm0NYG0
+Selleton!              harvey          AuoTD8mFfJe7pIqgo__ZLYkCAm
+Sempri Fi              speedy14        a4E1rBBLeeRL8gQCId1IYXyfLQ5
+Shift Expectations     SilverManCZ     Hzyzw836z9Y19KldWTAz_309tc7
+Sidewinder-v2          DerFeineHerr    ZOdA4AJZgBjFk5WZMpfYa3mxgC
+SmOoTh-Speed           DarcKz          ZQAJEXTrTQ0ylRqNFPAmjpv60J3
+Sphere of death        TLS87tratata    vKT_dEsoJ3jz5c9hwtpCUKrXa7k
+SupaCup-001            Supamanu        MN1WAuunZC2y2y6TABOYNcoZnz6
+SupaCup-002            Supamanu        5m9BGm0Ij59G5AKEbGzTtB2o6m7
+Super FroGs            D@rK@nGe        U_wZuu5ZBDZv7yauk3kPFxHQfJ3
+SuperBall              Raxor           DKPQouNh4uy5RWgGDjBEKWdQCDc
+Sweet & Sexy           DEnGel          hZYp_ny4lj9n7ySyYA1bVYajE_4
+TANGOSUMO              Nitryx_Doc_Kuku RTvlR2yBNXHAK19ywHA5t8QwHg2
+TMN Compo 2°           Sabaku          1Dw0AAc7m9oL8srow8Y19weUuy7
+TMN Ãîíî÷íûé Ñòàäèîí   Skotinka        ZiwXztaWTo0M7lx1aOTDfnrSuNb
+Technical Exodus       Maupi           xKAIqvmIy98Rd41006fzGecHYZk
+Technical Speed        XXL-Manfred     Ya4ozcjpWhtF_AGaute4AIzsFB1
+Tentar Bensar          DEnGel          UMzB_rkWsWM_ITQhS4owRZDEMU7
+The White Rabbit       wurnur          ATC4FKz7MP5BGxcMwGobfzcy_ki
+The Launch >>>         GanjaRider      fi1nCsveHks0aQ41Y38G4Yuy8lk
+Totally Insane         Andree          x8lp7MECa4WaAvRK8PsbveYv2I3
+Tranquila              irondragons     uTNLt6J56hSXjTQ0NcYf2VWaPj4
+Trip3l-Trial-v2        DerFeineHerr    mUQGzfF5QhF_2uivHOTs8kLiRk9
+Tube.scr               nemini          YEWNNVqrDHuEyT9RkNq_zaz4LWe
+Tuning TEC             Trojaner        sV6olqcBzSQFPXJJkQHzoGzB_xh
+Turbo Granny           Docteur_Kuku    XZBidSPSAyfbNEG2sl5mLkW7Ldd
+Turn                   Lunatik_RP      2IkZ7Sq5FxUUNDWe__s4SzFWBb5
+Ultrasonic             Skotinka        3qb8przRVqobNj0ITHsI2TgXYEl
+UnLeashed              DaKKoN          6gSI0nLLPaFfLGmwE1PLrcasBem
+UpTheBend              Raxor           epxLAzNhsADZFS8V3ya7rvPtfF7
+Voorwaarts             Zooz            nM2kAd4LMoAd1N4LJknkU4B69I0
+WALK OF STADIUM online ARO             ZAzZMmWb1MZEhtQEH3_A7w7svB4
+WALLING                Crazy__Driver   mTpVb9yg_iHDJxcS5oVffeP1Clb
+Without Gravitation    Marcel          sFWRB0BOkuoDa6MvRgumEHdgv_9
+X-TinGuish             h4stings        ZGWlSzG7SlBIokI2W2yEG9aVCZl
+You are the boss       Mistral         0D787vAItW7fPPrXSAgBm62JmP3
+back2thefuture         tga03           uNRj2VyA46bJpWvTcuu2MyE7_xf
+earthquake             silvestro1      fqJqSNLTlL2KQ0dUQe9H6BH56Tk
+Skillz v2.0 Onlin...   bkb98           SPNS8hBqAdLsdLzVkAe4xdHbsYl
+highscore              pitstep         _zdfoEKfDWLTNuLd0lFOTDeUena
+let's Dance            pitstep         j3W7gJUqxDlF989F90MTWRgBwq4
+tinyTECH3              Ron_Turbo       NjFTeXKYRFrjzyG9msE65o1E0m
+°°°YAYA°°° 3           Nicyan          E0jOkhmUg1RP3U3ko9x6SxR4A8m
+Âíèç è Ââåðõ           Skotinka        kG8UlhSdfZD4WDivg7roOxDquwg
+Øíÿãà                  Skotinka        8vJL2EJLnSQ30vLUBkrZJLxYyI5

@@ -1,0 +1,1 @@
+<?php header("Location: ./tmos_viewer.php"); exit; ?>

@@ -1,0 +1,109 @@
+v0.51 and above:
+   Extract to a ./gfx/tracks/ dir
+
+Old versions:
+   Extract to a ./gfx/ dir
+
+------------------------------------------------------------------
+Track                  Author          UID
+------------------------------------------------------------------
+-32-Mediocre           -32-            1tmO03mvU8SZ6WSN9owNlcNLoc0
+-Island Legend- TMU    ora             hGkUKaLgO0LO51ZYFUb3NoSr2S3
+-tmu-Speed rally -tmu- sebkifum        GFUrexD_5tuwkbC1PiWO7Eqy0Je
+-SEIZA-                ora             vMY6OpTYmnMNBtCtsg5rNFd2BE5
+Airport Rush           andree          XDSy5lqPo7NFoLfZ9AEUK_7B36k
+Arab!an N!ghts         smok3y          u2xQgZPwv2Agx6gXn1cyRXyJnck
+B - Power              buchi           05Nteh1DObItcD9ee2Nrq3ICM0k
+Bay2Go                 XT Projects     6_PfgSjUW6eEp8k5EkOycMv5la
+Black ZERO             Sebkifum        aIES1ccK9MxyCdhynRLWwLvnsV7
+Blaze Of Glory         smok3y          BU4tV0s9ny1nZv6P8wvWSYjNRJ
+Blue Water, Blue Sky   arcimpulse      YL9vl0xK9z8x7ML65LSNCexunfc
+Burning Sun            hawk_ger        2qgPyDWAuUpeSKVgBBhf36SWhMb
+Coast Control          raxor           vU_k6tJFz3emLlewZiRx2MhHqui
+Coastal Fandango       fonzie          805BKDg45uUXShrP7yS2nQ6UG2e
+Collect the Rings      looo            KJsub6zJIUYPWG404oSdG6MIw1a
+Control                irondragons     embxp4VyoMEnk5PoZSqxqlVAyCk
+Creative               pitstep         86YdasNy8XHVJf9zuw9ERFwt6yh
+Cute Hell              hawk_ger        vS3TpyGYAxJryC3MuRHHaaKNwS1
+Darkest                madslash        zv3BRX8KGiRvjW237FBuaCmCo99
+Dazzled                fonzie          2ZkxAqiTiAE2mOjDCB0HWq_ePPc
+Desert Eagle           andree          wDD9pAU3F1afSJA6vd7r1qTBc96
+Desert Serpentines     alcator         AfZ36TsPtiL5nUJ5lWDXqxeFFGc
+Desert Strike          andree          4e9lJeRLgrFZ8Ov_JyA9xeZsSck
+Dirty Boy              crooms          nx3YpAKrFYrvvtKpI032n4GiLul
+Dirty Speed            andree          SwH2FjA03YDYvh047m4v9RvGUe8
+Dockside               markus          a159gXQZh8GotHKA65RCSBcJo66
+DolphinsLagoon No Sc   speedanger      UFnBDTmaBsMiscaMLC4SEIb6WQk
+Drek'Thar              kyo             tP7U9UMblDejkBfTDYTdn4azDUj
+Equinox                crooms          Dv0mh88sfDkTeshBjcdLREr6xKe
+Etherlight             hawk_ger        QDBzS1pmyrjITqHiX7pyDlWU3A1
+Flying Circus          trojaner        FRaVNRhzbZlQxWEDPqJPqn4i5zg
+Fruity blue            trojaner        urx1ZsQmLLYNRsVBitW9dPc7YKh
+FuriA                  ora             Qnhjxm7S369lVhM81VFD9ZV5n0l
+Going Down             ronturbo        qrEPBMJ4RGmazx58ENbwvpq0aE4
+Grand Opening          ora             rNTlysbgrMwasPc7ICVje2eEu5i
+Guardians of Power     ora             ZK9OOsnJQbDWGLJyN2C9PujqScc
+Hangin' Around R1      ronturbo        U33Ga0n5_LrhvMDm1kHa4cYPNLj
+High Voltage           trojaner        _21lCALLMBrtKO45A3KmUmkIFBa
+Hit The Flakes         jakob           LtKVnzx9W2FIbW6PFoHBt9MQOMi
+Holliday In            markus          y2yHQHHpVunhuU9g9ZSr4j4VWz9
+INDOOR RACING          sivert          iUU6C0wqTFy1kTcmnX8pNhrYXP3
+Imprezia               ora             848d50lqDenylBG4C3iJOAbmeV5
+InfInIty               pitstep         lv8H8lAoWkEMCBJb619vxe876Ee
+Infinite Speed         buchi           zHmcvAxOVYsB3R3SnbTiF2DfYe8
+Intensive Fight        shady           kCMvRkI3iL4jLW987IfcbeIQaR
+King of the Speed      timebreaker     quCEeyiSZ_uHA0jqqduowoJ7zV6
+LIBERTA                ora             GCdaqBPEDo41e87GGCZGX3i71Hf
+LifesBlood             ronturbo        E5VuFLlPhvVeFEOFU9efLZ3hYLb
+Lost in Paradise       heidi           kryPsvyMvYfxfgyZ060jTgBJc55
+MD-Big Black Road      masterdisaster  9c5EGtDeZGb734hLuqtm8Ld3W4f
+MD-Burn                masterdisaster  jHBuvQL3i5HPLQy613hvpP7lB5d
+MD-Wolf's Eyes         masterdisaster  WXLWY5uIQxlShKgTXjrW_qUL7
+Melon Babe             trojaner        k8chryS1_dTw9ZBZDQrFAhlg92n
+Mental Rage            andree          y8dj3hoDXZBwCmcxTbI8qbQgx39
+MiniMix 1              swensen         mwH8xjLwLCIfslr7FmqvJ5T6AEg
+MoOnL!gHt              smok3y          cOL5ZRLaFgEbahJq7dqq4HOFqjb
+Mr.Speed               Sebkifum        Z4Ak4joyMirFaNaMxIQbPGOCwEc
+Over Rise United       ora             h9eLa0Xc1PXUSGb2wjtMClnQBC0
+Over The Top LX        jet-black       h66L8uOsiuSBvrvek9m9rw6bpA8
+Paper Airplanes        hawk_ger        0gGiqfe_akzN_NxzJlU8IkLLpab
+Penguin Mayhem         jumperjack      fmKclQxJ_ydzIjDJoaaoyqgZrU
+Planet Hell            hawk_ger        Iv9I4wiUV38dMnySe1c_YUPgRlj
+Point Of No Return     atphavoc        sQApKHw1OVUMhvaHFXPpKf269e2
+RalliArt               fonzie          DAlVhAy6mq88ZKC0enx9NMEtxPf
+Rattl3Snak3            smok3y          JqWdP7I65iZw0_TH7LL6EEzJaVa
+Resurrection           buchi           r6ZkfbahgA24gnqYbtBRqcOjJxf
+Santa Clause           Bigxxx          q9g25xsjGOrRYeciGj2eS8HF6ek
+Smok3d Out             smok3y          cHDNJZsNB2eyHxYkPv4OfZK5sQ9
+Smooth Santa           cyberfrog       oEFTz0DLuABXg4A55LKXnAC75mb
+Speed Kills            buchi           DJtk6lDCIxW_Y9vUwbygWcdxfTk
+Speed of Steel         nitroguy        BxZ1qp451hTKCrZxtu2JHxYz1D1
+Super Vomitorium       alkazex         dU036PjwNpSYtmiTCp_ogIu3je3
+Super Zippy            smok3y          p_W2LZrTDiOTHgHWQKSPTMS8yPh
+Sweet Emotion          atphavoc        pI_tfiDA4oH55tsb4xpU2WrkVCl
+Sympact                roph            AA4vkUANYU1ssqusqGHQlUt1Pk5
+TMX Community Desert 1 TMXCommunity    2wlzm55YfdvPJKisVV2cfPHrYA2
+Technological Terror   Raxor           RQTz3e5r4Y8dCoM_HBpgIOA1PN7
+The Flying Desertman!  mikoz           2GgjoPNh9Y4ofwV3WNurGVIp2va
+The Lost Island        smok3y          FRs8gyEaVaUD_xFbX2p5cATRFHb
+The Silk Road          ora             jHMJ2USZBYWG1R1Dn512WzJKAn6
+The Wooty Challenge    smok3y          iERPrTZ22XYNhvhxTPEdsbmLgah
+Tricky Slide           andree          _QaozdcxUwyGQgXRrSsbMpIdw_3
+UNREAL Flow            ora             A7ErWiEqMWBG2gJgovvzKEZPFU5
+Uggy                   nitryx          avNSpAKTrVLf4mNMVLZ_95H3Gb4
+Unholy                 andree          WnpMTUYOgT9wMEiMaJBCt7u9EDd
+Unistadium             Sebkifum        8Fi4DcorxuzR7eR2VrTbXcszSw1
+United Compo 1         sabaku          9RVEfbf1iV12avij6T3UdxZg1v9
+WARP                   crooms          wTaC45r9YzWWQLcQkOfU5eAlfZj
+WE ARE BORG XTended    kev_fan         afhVHbNPS7g2kS6QNMRlCyIshyf
+Wheeling               ora             Dq8lZKXmE7ZHW2dJ6ahwe_6Bzt1
+[GR]Night Hawk         ganjarider      rzfzTVVlHNhG8iC5n8dzONDeQc4
+[GR]UFir3$tart3r       ganjarider      k4o8Fn066LbcUMSvWmlHIKpsAG0
+[GR]UniRally           ganjarider      6jtwy_ZT9NMwZGaANko_gWqQhEj
+[PF] StuntMaster...    andree          6dFO1QZYyqCr3P6k_c2smBtHaF4
+ebay                   andree          SONoGnOJJsrTZLtBO4zsaUfFinh
+intersection           irondragons     NEU64mriO30uMIr_336WHz3AnK6
+tmx Coast Community... TMXCommunity    0tY8dhHuRygTMapK1VHULPIrd1
+united untied          jumperjack      jgXtFAkh79PeHUHOQusscH9wEZi
+~*AntiBoost*~          Buchi_77        nZZWHMER4GAABY6RbE3DWU5kBYl
+Circuit La Coruna                      xg2OkRnCVrEZ1lA2RICmAn128hl
